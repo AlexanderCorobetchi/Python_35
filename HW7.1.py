@@ -1,5 +1,5 @@
 user_input = input("Введите число (можно с пробелами или знаком минус): ").strip()
-
+# Git Hub
 index = 0
 digit_sum = 0
 found_digit = False
